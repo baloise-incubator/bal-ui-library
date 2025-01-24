@@ -1,5 +1,29 @@
 # Changelog
 
+## 17.4.0
+
+### Minor Changes
+
+- **navbar**: add a11y label for logo and make it clickable ( [#1582](https://github.com/baloise/design-system/pull/1582))
+
+### Patch Changes
+
+- **number-input**: Accepts values with thousand separators ( [#1558](https://github.com/baloise/design-system/pull/1558))
+
+- **segment**: adjust icon color in disable mode to dark grey ( [#1582](https://github.com/baloise/design-system/pull/1582))
+
+- **nav**: sets aria label to meta buttons first and otherwise label ( [#1577](https://github.com/baloise/design-system/pull/1577))
+
+- **form**: add missing row gap between controls ( [#1576](https://github.com/baloise/design-system/pull/1576))
+
+- **list**: connect accordion head and body for a11y ( [#1542](https://github.com/baloise/design-system/pull/1542))
+
+- **footer**: safari style for the language select ( [#1576](https://github.com/baloise/design-system/pull/1576))
+
+- **accordion**: add a11y labels to the accordion trigger ( [#1542](https://github.com/baloise/design-system/pull/1542))
+
+- **button**: set aria-haspopup for popup buttons ( [#1479](https://github.com/baloise/design-system/pull/1479))
+
 ## 17.3.0
 
 ### Minor Changes
